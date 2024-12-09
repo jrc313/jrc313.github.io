@@ -1,0 +1,10 @@
+# Basic settings
+theme: jekyll-theme-minimal
+title : JRC313
+description: James Corbett's collection of oddities, trinkets and toys.
+author :
+  name : James Corbett
+  email : feedback@jrc313.com
+
+# lsi : true
+paginate : 5
